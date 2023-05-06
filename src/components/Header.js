@@ -4,7 +4,7 @@ import Navigation from "./Navigation";
 function Header() {
   return (
     <header>
-      <h1>Developer Name</h1>
+      <h1>Ervin Dasratt</h1>
       <Navigation />
     </header>
   );
