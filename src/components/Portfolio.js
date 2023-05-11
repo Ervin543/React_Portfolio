@@ -3,7 +3,7 @@ import Project from "./Project";
 
 function Portfolio() {
   return (
-    <section>
+    <section id = 'portfolio' style = {{display:"none"}}>
       <h2>Portfolio</h2>
       <div className="project-list">
         <Project

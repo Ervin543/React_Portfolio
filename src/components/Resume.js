@@ -2,9 +2,10 @@ import React from "react";
 
 function Resume() {
   return (
-    <section>
+    <section id = 'resume' style = {{display:"none"}}>
       <h2>Resume</h2>
-      <p>Download my resume <a href="#">here</a>.</p>
+      <p>You can view my GitHub Repository <a href="https://github.com/Ervin543?tab=repositories">here</a>.</p>
+      
       <h3>Proficiencies</h3>
       <ul>
         <li>HTML</li>
