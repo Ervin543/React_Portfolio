@@ -21,27 +21,11 @@ function Portfolio() {
         <Project
           title="Project 3"
           image="path/to/image"
-          link="https://project3.com"
-          github="https://github.com/Ervin543/project3"
+          link="https://barkbook-1.herokuapp.com/"
+          github="https://github.com/KoreyHermann/BarkBook"
         />
-        <Project
-          title="Project 4"
-          image="path/to/image"
-          link="https://project4.com"
-          github="https://github.com/Ervin543/project4"
-        />
-        <Project
-          title="Project 5"
-          image="path/to/image"
-          link="https://project5.com"
-          github="https://github.com/Ervin543/project5"
-        />
-        <Project
-          title="Project 6"
-          image="path/to/image"
-          link="https://project6.com"
-          github="https://github.com/Ervin543/project6"
-        />
+      
+          <a href = "https://github.com/KoreyHermann/BarkBook"> Project 3 GitHub Repository</a>
       </div>
     </section>
   );
